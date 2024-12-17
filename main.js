@@ -71,7 +71,7 @@ function diaEventoAhora () {
       icon: 'success',
       html:
         'INGRESÁ' +
-        '<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3405.1113960678335!2d-64.16833992505727!3d-31.411056795992522!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x9432a348c5c382cb%3A0xaafc13ca9f3043ed!2sBloom%20Fiestas%20Infantiles!5e0!3m2!1ses-419!2sar!4v1707851628165!5m2!1ses-419!2sar" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>' +
+        '<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d1557.6785535382278!2d-62.2735844!3d-38.6636603!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x95edbad08715d8cf%3A0x1e97730735cda1fd!2sPlaza%20Barrio%20Parque%20Paihuen!5e0!3m2!1ses-419!2sar!4v1734472122363!5m2!1ses-419!2sar" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>' +
         'Podes ampliar el mapa',
         
         
